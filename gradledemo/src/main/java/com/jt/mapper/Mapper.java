@@ -5,6 +5,7 @@ public class Mapper {
         System.out.println("asdad");
         System.out.println("a1");
         System.out.println("b1");
+        System.out.println("b1");
 
     }
 }
