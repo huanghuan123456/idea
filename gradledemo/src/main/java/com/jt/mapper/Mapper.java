@@ -11,5 +11,12 @@ public class Mapper {
         System.out.println("b4");
         System.out.println("b5");
         System.out.println("b6");
+        System.out.println("b6");
+        System.out.println("b6");
+        System.out.println("b6");
+        System.out.println("b6");
+        System.out.println("b6");
+        System.out.println("b6");
+        System.out.println("b6");
     }
 }
