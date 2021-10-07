@@ -12,5 +12,6 @@ public class Mapper {
         System.out.println("b5");
         System.out.println("b6");
         System.out.println("b7");
+        System.out.println("b8");
     }
 }
