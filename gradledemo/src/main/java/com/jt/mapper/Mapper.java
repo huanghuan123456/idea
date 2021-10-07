@@ -15,6 +15,5 @@ public class Mapper {
         System.out.println("sdadad");
         System.out.println("sdada");
         System.out.println("1245");
-        System.out.println("1");
     }
 }
