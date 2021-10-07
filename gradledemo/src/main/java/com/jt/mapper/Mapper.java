@@ -16,7 +16,7 @@ public class Mapper {
         System.out.println("sdada");
         System.out.println("1245");
         System.out.println("321");
-        System.out.println("321");
-        System.out.println("321");
+        System.out.println("31");
+        System.out.println("12");
     }
 }
